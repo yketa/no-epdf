@@ -2,9 +2,9 @@
 
   "manifest_version": 2,
   "name": "no-epdf",
-  "version": "0.1.1",
+  "version": "0.1.2",
 
-  "description": "Directly open PDF from EPDF viewers/readers.",
+  "description": "Directly open PDF from EPDF/EPUB viewers/readers.",
   "homepage_url": "https://github.com/yketa/no-epdf",
 
   "content_scripts": [
